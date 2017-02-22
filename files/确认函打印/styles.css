@@ -1,0 +1,150 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:727px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u5398_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:632px;
+  height:854px;
+}
+#u5398 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:632px;
+  height:854px;
+}
+#u5399 {
+  position:absolute;
+  left:2px;
+  top:419px;
+  width:628px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u5400_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:685px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  color:#FF0000;
+}
+#u5400 {
+  position:absolute;
+  left:42px;
+  top:47px;
+  width:685px;
+  height:22px;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  color:#FF0000;
+}
+#u5401 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:685px;
+  white-space:nowrap;
+}
+#u5402_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:299px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  color:#FF0000;
+}
+#u5402 {
+  position:absolute;
+  left:42px;
+  top:94px;
+  width:299px;
+  height:22px;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  color:#FF0000;
+}
+#u5403 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:299px;
+  white-space:nowrap;
+}
+#u5404_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:469px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  color:#FF0000;
+}
+#u5404 {
+  position:absolute;
+  left:42px;
+  top:126px;
+  width:469px;
+  height:22px;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  color:#FF0000;
+}
+#u5405 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:469px;
+  white-space:nowrap;
+}
